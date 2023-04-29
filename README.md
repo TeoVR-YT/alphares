@@ -1,3 +1,5 @@
+## THIS IS JUST A MODIFICATION OF THE Alphares PROGRAM TO BE UPDATED WITH THE LATEST VERSION OF THE GAME (Changes the Lobby FPS Limit "FrontendFrameRateLimit" as well). All credits go to the ORIGINAL creator, Braycarlson!
+
 ## alphares
 alphares is a tool for Windows to save custom settings in Fortnite.
 
@@ -6,8 +8,8 @@ I made this tool when it was possible to customize Fortnite's resolution via a c
 ![alphares](https://raw.githubusercontent.com/braycarlson/alphares/master/alphares/gfx/alphares.png)
 
 ## Download
-* Go to [Releases](https://github.com/braycarlson/alphares/releases/tag/1.2.1)
-* Under **Assets**, click "alphares_1.2.1_x64.exe"
+* Go to [Releases](https://github.com/TeoVR-YT/alphares/releases/tag/1.2.2)
+* Under **Assets**, click "alphares_1.2.2_x64.exe"
 * Rename the executable to "alphares"
 * Move it to an accessible location (i.e., Documents, Desktop, etc.)
 
@@ -19,11 +21,15 @@ I made this tool when it was possible to customize Fortnite's resolution via a c
 * You *might* also have to change the settings in the NVIDIA or AMD Control Panel
 
 ## Popular resolution(s)
+* 1722x1080
 * 1600x1080
+* 1680x1050
+* 1500x1080
 * 1440x1080
 * 1280x1024
 * 1154x1080
 * 1080x1080
+* 640x480
 
 ## Support
 If you want to support what I do, consider making a donation:
